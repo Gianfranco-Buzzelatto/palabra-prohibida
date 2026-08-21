@@ -28,7 +28,7 @@ export function SetupScreen({
   return (
     <div style={styles.centerCol} className="fade-in">
       <div style={styles.eyebrow}>UN MINUTO, LA MAYOR CANTIDAD</div>
-      <h1 style={styles.title}>PALABRA PROHIBIDA</h1>
+      <h1 style={styles.title}>ADIVINA LA PALABRA</h1>
       <p style={styles.subtitle}>
         Quien adivina se da vuelta. El equipo mira la pantalla y tira pistas sueltas,
         sin decir la palabra.
