@@ -266,6 +266,12 @@ const GROUPS = {
   ],
 };
 
+import { CAT_HINTS, WORD_HINTS } from "./hints";
+
+function hintFor(word, cat) {
+  return WORD_HINTS[word] || CAT_HINTS[cat] || "";
+}
+
 function buildCards(groups) {
   const seen = new Set();
   const cards = [];
@@ -275,7 +281,7 @@ function buildCards(groups) {
       const key = w.toLowerCase();
       if (!w || seen.has(key)) continue;
       seen.add(key);
-      cards.push({ w, cat });
+      cards.push({ w, cat, hint: hintFor(w, cat) });
     }
   }
   return cards.map((c, i) => ({ ...c, id: i }));
@@ -284,10 +290,12 @@ function buildCards(groups) {
 export const CARDS = buildCards(GROUPS);
 
 export const TEAM_META = [
-  { name: "Los Dorados", emoji: "🟡" },
-  { name: "Los Violetas", emoji: "🟣" },
-  { name: "Los Coral", emoji: "🔴" },
-  { name: "Los Lima", emoji: "🟢" },
+  { name: "Equipo Rojo", emoji: "🔴" },
+  { name: "Equipo Azul", emoji: "🔵" },
+  { name: "Equipo Verde", emoji: "🟢" },
+  { name: "Equipo Amarillo", emoji: "🟡" },
+  { name: "Equipo Violeta", emoji: "🟣" },
+  { name: "Equipo Naranja", emoji: "🟠" },
 ];
 
 export const CAT_INFO = {

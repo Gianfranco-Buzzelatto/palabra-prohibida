@@ -13,24 +13,75 @@ export function shuffle(arr) {
   return a;
 }
 
-export function buildTeams(playerNames, numTeams, teamNames = []) {
-  const players = shuffle(
-    filledNames(playerNames).map((name, i) => ({ id: `${i}-${name}`, name }))
-  );
-  const teams = Array.from({ length: numTeams }, (_, i) => {
-    const custom = (teamNames[i] || "").trim();
+export function createDraftTeam(index) {
+  const meta = TEAM_META[index % TEAM_META.length];
+  return {
+    name: meta.name,
+    emoji: meta.emoji,
+    playerNames: ["", ""],
+    count: 4,
+  };
+}
+
+export function buildNamedTeams(drafts) {
+  return drafts.map((d, i) => {
+    const meta = TEAM_META[i % TEAM_META.length];
+    const names = filledNames(d.playerNames || []);
     return {
-      name: custom || TEAM_META[i].name,
-      emoji: TEAM_META[i].emoji,
+      name: (d.name || "").trim() || meta.name,
+      emoji: d.emoji || meta.emoji,
       score: 0,
-      players: [],
+      counted: false,
+      players: names.map((name, n) => ({
+        id: `${i}-${n}-${name}`,
+        name,
+        teamIdx: i,
+        anonymous: false,
+      })),
     };
   });
-  players.forEach((p, i) => {
-    const teamIdx = i % numTeams;
-    teams[teamIdx].players.push({ ...p, teamIdx });
+}
+
+export function buildCountedTeams(drafts) {
+  return drafts.map((d, i) => {
+    const meta = TEAM_META[i % TEAM_META.length];
+    const count = Math.max(2, Math.min(20, Number(d.count) || 2));
+    return {
+      name: (d.name || "").trim() || meta.name,
+      emoji: d.emoji || meta.emoji,
+      score: 0,
+      counted: true,
+      players: Array.from({ length: count }, (_, n) => ({
+        id: `${i}-${n}`,
+        name: `Turno ${n + 1}`,
+        teamIdx: i,
+        anonymous: true,
+      })),
+    };
   });
-  return teams;
+}
+
+export function setupReady(mode, drafts) {
+  if (!drafts || drafts.length < 2) {
+    return { ok: false, reason: "Mínimo 2 equipos" };
+  }
+  if (mode === "named") {
+    const short = drafts.find((d) => filledNames(d.playerNames || []).length < 2);
+    if (short) return { ok: false, reason: "Cada equipo necesita al menos 2 nombres" };
+    return { ok: true };
+  }
+  const short = drafts.find((d) => Number(d.count) < 2);
+  if (short) return { ok: false, reason: "Cada equipo necesita al menos 2 participantes" };
+  return { ok: true };
+}
+
+export function turnLabel(player, teams) {
+  if (!player) return "";
+  const team = teams[player.teamIdx];
+  if (player.anonymous) {
+    return `${team?.name || "Equipo"} · ${player.name}`;
+  }
+  return player.name;
 }
 
 export function buildTurnQueue(teams) {

@@ -35,7 +35,7 @@ export function PlayerListEditor({ playerNames, setPlayerNames, minPlayers }) {
         + Agregar jugador
       </button>
       <div style={styles.rulesNote}>
-        {filled} jugador{filled === 1 ? "" : "es"} · mínimo {minPlayers} (2 por equipo)
+        {filled} nombre{filled === 1 ? "" : "s"} · mínimo {minPlayers}
       </div>
     </>
   );

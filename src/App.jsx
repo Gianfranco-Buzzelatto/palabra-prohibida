@@ -1,9 +1,11 @@
 import { useState, useEffect, useRef, useMemo } from "react";
 import { CARDS, TEAM_META } from "./data";
 import {
-  filledNames,
   shuffle,
-  buildTeams,
+  buildNamedTeams,
+  buildCountedTeams,
+  setupReady,
+  createDraftTeam,
   buildTurnQueue,
   teammatesOf,
   buzz,
@@ -15,7 +17,6 @@ import {
 } from "./utils";
 import { styles } from "./styles";
 import { SetupScreen } from "./components/SetupScreen";
-import { RosterScreen } from "./components/RosterScreen";
 import { TurnIntroScreen } from "./components/TurnIntroScreen";
 import { PlayingScreen } from "./components/PlayingScreen";
 import { SummaryScreen } from "./components/SummaryScreen";
@@ -23,9 +24,8 @@ import { FinalScreen } from "./components/FinalScreen";
 
 export default function App() {
   const [screen, setScreen] = useState("setup");
-  const [numTeams, setNumTeams] = useState(2);
-  const [teamNames, setTeamNames] = useState(TEAM_META.map((t) => t.name));
-  const [playerNames, setPlayerNames] = useState(["", "", "", ""]);
+  const [rosterMode, setRosterMode] = useState("named");
+  const [draftTeams, setDraftTeams] = useState(() => [createDraftTeam(0), createDraftTeam(1)]);
   const [selectedCats, setSelectedCats] = useState(
     new Set(["general", "argentina", "comida", "animales", "famosos", "deportes"])
   );
@@ -83,50 +83,38 @@ export default function App() {
     return { card, recycled };
   };
 
-  const reshuffleTeams = () => {
-    setTeams(buildTeams(playerNames, numTeams, teamNames));
-  };
-
-  const renameTeam = (idx, name) => {
-    setTeamNames((prev) => {
+  const updateDraftTeam = (idx, patch) => {
+    setDraftTeams((prev) => {
       const next = [...prev];
-      next[idx] = name;
-      return next;
-    });
-    setTeams((prev) => {
-      if (!prev.length) return prev;
-      const next = [...prev];
-      if (!next[idx]) return prev;
-      next[idx] = {
-        ...next[idx],
-        name,
-      };
+      next[idx] = { ...next[idx], ...patch };
       return next;
     });
   };
 
-  const goToRoster = () => {
-    const names = filledNames(playerNames);
-    const minPlayers = numTeams * 2;
-    if (names.length < minPlayers) return;
-    setTeams(buildTeams(playerNames, numTeams, teamNames));
-    setScreen("roster");
+  const addDraftTeam = () => {
+    setDraftTeams((prev) => {
+      if (prev.length >= TEAM_META.length) return prev;
+      return [...prev, createDraftTeam(prev.length)];
+    });
   };
 
-  const confirmRoster = () => {
-    setTeams((prev) =>
-      prev.map((t, i) => ({
-        ...t,
-        name: (t.name || "").trim() || TEAM_META[i].name,
-      }))
-    );
+  const removeDraftTeam = (idx) => {
+    setDraftTeams((prev) => (prev.length <= 2 ? prev : prev.filter((_, i) => i !== idx)));
+  };
+
+  const startGame = () => {
+    const check = setupReady(rosterMode, draftTeams);
+    if (!check.ok) return;
+    const built =
+      rosterMode === "named" ? buildNamedTeams(draftTeams) : buildCountedTeams(draftTeams);
+    setTeams(built);
     const catFiltered = CARDS.filter((c) => selectedCats.has(c.cat));
     const unused = catFiltered.filter((c) => !usedWordsRef.current.has(wordKey(c.w)));
     const pool = shuffle(unused.length > 0 ? unused : catFiltered);
     setDeckPool(pool);
     excludedRef.current = new Set();
     passedRef.current = new Set();
-    setTurnQueue(buildTurnQueue(teams));
+    setTurnQueue(buildTurnQueue(built));
     setCurrentTurnIdx(0);
     setRound(1);
     setIsTiebreak(false);
@@ -246,15 +234,15 @@ export default function App() {
   const ranking = useMemo(() => [...teams].sort((a, b) => b.score - a.score), [teams]);
 
   return (
-    <div style={styles.appRoot}>
+    <div style={styles.appRoot} className="app-root">
       {screen === "setup" && (
         <SetupScreen
-          numTeams={numTeams}
-          setNumTeams={setNumTeams}
-          teamNames={teamNames}
-          setTeamNames={setTeamNames}
-          playerNames={playerNames}
-          setPlayerNames={setPlayerNames}
+          rosterMode={rosterMode}
+          setRosterMode={setRosterMode}
+          draftTeams={draftTeams}
+          updateDraftTeam={updateDraftTeam}
+          addDraftTeam={addDraftTeam}
+          removeDraftTeam={removeDraftTeam}
           selectedCats={selectedCats}
           toggleCat={toggleCat}
           timerSeconds={timerSeconds}
@@ -268,17 +256,7 @@ export default function App() {
             ).length
           }
           onResetUsed={resetUsedWords}
-          onContinue={goToRoster}
-        />
-      )}
-
-      {screen === "roster" && (
-        <RosterScreen
-          teams={teams}
-          onReshuffle={reshuffleTeams}
-          onRenameTeam={renameTeam}
-          onBack={() => setScreen("setup")}
-          onConfirm={confirmRoster}
+          onContinue={startGame}
         />
       )}
 
@@ -301,16 +279,9 @@ export default function App() {
 
       {screen === "playing" && (
         <PlayingScreen
-          player={currentPlayer}
-          team={teams[currentTeamIdx]}
-          teams={teams}
-          currentTeamIdx={currentTeamIdx}
-          targetScore={targetScore}
           timeLeft={timeLeft}
           timerSeconds={timerSeconds}
           currentCard={currentCard}
-          okCount={okCount}
-          passCount={passCount}
           onAcerto={onAcerto}
           onPasar={onPasar}
         />

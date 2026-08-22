@@ -20,7 +20,9 @@ export function Scoreboard({ teams, currentTeamIdx, targetScore }) {
             <span style={styles.scoreChipGoal}>/{targetScore}</span>
           </div>
           <div style={styles.scoreChipPlayers}>
-            {(t.players || []).map((p) => p.name).join(" · ")}
+            {t.counted
+              ? `${(t.players || []).length} participantes`
+              : (t.players || []).map((p) => p.name).join(" · ")}
           </div>
         </div>
       ))}
