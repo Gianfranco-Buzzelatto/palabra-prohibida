@@ -85,7 +85,15 @@ export function turnLabel(player, teams) {
 }
 
 export function buildTurnQueue(teams) {
-  return shuffle(teams.flatMap((t) => t.players));
+  const lists = teams.map((t) => t.players || []);
+  const max = Math.max(0, ...lists.map((p) => p.length));
+  const queue = [];
+  for (let i = 0; i < max; i++) {
+    for (const players of lists) {
+      if (players[i]) queue.push(players[i]);
+    }
+  }
+  return queue;
 }
 
 export function teammatesOf(player, teams) {
