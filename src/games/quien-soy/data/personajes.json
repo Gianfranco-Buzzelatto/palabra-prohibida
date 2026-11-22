@@ -1,0 +1,3359 @@
+[
+ {
+  "id": "dep-001",
+  "nombre": "Diego Maradona",
+  "categoria": "Fútbol y deportes",
+  "nacionalidad": "Argentina",
+  "actividad": "Futbolista",
+  "descripcion": "Capitán de la Selección campeona del mundo en México 1986.",
+  "etiquetas": [
+   "fútbol",
+   "selección",
+   "mundial",
+   "boca",
+   "napoli"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "dep-002",
+  "nombre": "Lionel Messi",
+  "categoria": "Fútbol y deportes",
+  "nacionalidad": "Argentina",
+  "actividad": "Futbolista",
+  "descripcion": "Capitán de la Selección campeona del mundo en Qatar 2022.",
+  "etiquetas": [
+   "fútbol",
+   "selección",
+   "mundial",
+   "barcelona"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "ok",
+   "archivo": "dep-002.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "autor": "Ludovic Péron",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Suisse_vs_Argentine_-_Granit_Xhaka_%26_Lionel_Messi.jpg"
+  }
+ },
+ {
+  "id": "dep-003",
+  "nombre": "Gabriela Sabatini",
+  "categoria": "Fútbol y deportes",
+  "nacionalidad": "Argentina",
+  "actividad": "Tenista",
+  "descripcion": "Ganó el US Open en 1990.",
+  "etiquetas": [
+   "tenis"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 3,
+   "31-45": 4,
+   "46-60": 5,
+   "60+": 4
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "dep-004",
+  "nombre": "Juan Manuel Fangio",
+  "categoria": "Fútbol y deportes",
+  "nacionalidad": "Argentina",
+  "actividad": "Piloto de automovilismo",
+  "descripcion": "Cinco veces campeón mundial de Fórmula 1.",
+  "etiquetas": [
+   "automovilismo",
+   "fórmula 1"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 1,
+   "31-45": 2,
+   "46-60": 4,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "ok",
+   "archivo": "dep-004.jpg",
+   "licencia": "Public domain",
+   "autor": "Unknown authorUnknown author",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Juan_Manuel_Fangio_(circa_1952).jpg"
+  }
+ },
+ {
+  "id": "dep-005",
+  "nombre": "Guillermo Vilas",
+  "categoria": "Fútbol y deportes",
+  "nacionalidad": "Argentina",
+  "actividad": "Tenista",
+  "descripcion": "Campeón de Roland Garros y del US Open en 1977.",
+  "etiquetas": [
+   "tenis"
+  ],
+  "dificultad": "dificil",
+  "popularidad": {
+   "18-30": 1,
+   "31-45": 2,
+   "46-60": 4,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "dep-006",
+  "nombre": "Manu Ginóbili",
+  "categoria": "Fútbol y deportes",
+  "nacionalidad": "Argentina",
+  "actividad": "Basquetbolista",
+  "descripcion": "Campeón olímpico en Atenas 2004 y campeón de la NBA con San Antonio Spurs.",
+  "etiquetas": [
+   "básquet",
+   "nba",
+   "generación dorada"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 4,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "ok",
+   "archivo": "dep-006.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "autor": "Mike",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Manu_Ginobili_Spurs-Magic011_(cropped).jpg"
+  }
+ },
+ {
+  "id": "dep-007",
+  "nombre": "Mario Kempes",
+  "categoria": "Fútbol y deportes",
+  "nacionalidad": "Argentina",
+  "actividad": "Futbolista",
+  "descripcion": "Goleador de la Argentina campeona del mundo en 1978.",
+  "etiquetas": [
+   "fútbol",
+   "mundial 1978"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 2,
+   "31-45": 3,
+   "46-60": 4,
+   "60+": 4
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "dep-008",
+  "nombre": "Gabriel Batistuta",
+  "categoria": "Fútbol y deportes",
+  "nacionalidad": "Argentina",
+  "actividad": "Futbolista",
+  "descripcion": "Delantero apodado Batigol, ídolo de Boca y de la Fiorentina.",
+  "etiquetas": [
+   "fútbol",
+   "batigol",
+   "fiorentina"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 3,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "ok",
+   "archivo": "dep-008.jpg",
+   "licencia": "Public domain",
+   "autor": "Autor no informado",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Gabriel_batistuta.jpg"
+  }
+ },
+ {
+  "id": "dep-009",
+  "nombre": "Juan Román Riquelme",
+  "categoria": "Fútbol y deportes",
+  "nacionalidad": "Argentina",
+  "actividad": "Futbolista",
+  "descripcion": "Mediocampista, ídolo de Boca Juniors.",
+  "etiquetas": [
+   "fútbol",
+   "boca",
+   "mediocampista"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 4,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "ok",
+   "archivo": "dep-009.jpg",
+   "licencia": "CC BY 3.0",
+   "autor": "Todo Noticias",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Juan_Rom%C3%A1n_Riquelme_-_2019.jpg"
+  }
+ },
+ {
+  "id": "dep-010",
+  "nombre": "Carlos Tevez",
+  "categoria": "Fútbol y deportes",
+  "nacionalidad": "Argentina",
+  "actividad": "Futbolista",
+  "descripcion": "Delantero surgido de Boca, jugó en el Manchester United y la Juventus.",
+  "etiquetas": [
+   "fútbol",
+   "boca",
+   "apache"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 4,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "ok",
+   "archivo": "dep-010.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "autor": "Egghead06",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Carlos_Tevez_with_Argentina_November_2014_(cropped).jpg"
+  }
+ },
+ {
+  "id": "dep-011",
+  "nombre": "Ángel Di María",
+  "categoria": "Fútbol y deportes",
+  "nacionalidad": "Argentina",
+  "actividad": "Futbolista",
+  "descripcion": "Extremo de Rosario Central, campeón del mundo en 2022.",
+  "etiquetas": [
+   "fútbol",
+   "selección",
+   "fideo"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 3
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "dep-012",
+  "nombre": "Sergio Agüero",
+  "categoria": "Fútbol y deportes",
+  "nacionalidad": "Argentina",
+  "actividad": "Futbolista",
+  "descripcion": "Apodado Kun, delantero histórico del Manchester City.",
+  "etiquetas": [
+   "fútbol",
+   "kun",
+   "manchester city"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 4,
+   "31-45": 4,
+   "46-60": 4,
+   "60+": 3
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "dep-013",
+  "nombre": "Emiliano Martínez",
+  "categoria": "Fútbol y deportes",
+  "nacionalidad": "Argentina",
+  "actividad": "Futbolista",
+  "descripcion": "Arquero apodado Dibu, campeón del mundo en 2022.",
+  "etiquetas": [
+   "fútbol",
+   "arquero",
+   "dibu"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 5,
+   "46-60": 4,
+   "60+": 3
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "dep-014",
+  "nombre": "Lionel Scaloni",
+  "categoria": "Fútbol y deportes",
+  "nacionalidad": "Argentina",
+  "actividad": "Director técnico",
+  "descripcion": "Entrenador de la Selección campeona del mundo en 2022.",
+  "etiquetas": [
+   "fútbol",
+   "selección",
+   "técnico"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 4
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "dep-015",
+  "nombre": "Marcelo Bielsa",
+  "categoria": "Fútbol y deportes",
+  "nacionalidad": "Argentina",
+  "actividad": "Director técnico",
+  "descripcion": "Entrenador apodado el Loco, dirigió a la Selección y a Newell's.",
+  "etiquetas": [
+   "fútbol",
+   "técnico",
+   "loco"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 3,
+   "31-45": 4,
+   "46-60": 4,
+   "60+": 4
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "dep-016",
+  "nombre": "Carlos Bilardo",
+  "categoria": "Fútbol y deportes",
+  "nacionalidad": "Argentina",
+  "actividad": "Director técnico",
+  "descripcion": "Entrenador de la Selección campeona del mundo en 1986.",
+  "etiquetas": [
+   "fútbol",
+   "técnico",
+   "mundial 1986"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 3,
+   "31-45": 4,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "dep-017",
+  "nombre": "César Luis Menotti",
+  "categoria": "Fútbol y deportes",
+  "nacionalidad": "Argentina",
+  "actividad": "Director técnico",
+  "descripcion": "Entrenador de la Selección campeona del mundo en 1978.",
+  "etiquetas": [
+   "fútbol",
+   "técnico",
+   "mundial 1978"
+  ],
+  "dificultad": "dificil",
+  "popularidad": {
+   "18-30": 2,
+   "31-45": 3,
+   "46-60": 4,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "dep-018",
+  "nombre": "Javier Zanetti",
+  "categoria": "Fútbol y deportes",
+  "nacionalidad": "Argentina",
+  "actividad": "Futbolista",
+  "descripcion": "Capitán histórico del Inter de Milán.",
+  "etiquetas": [
+   "fútbol",
+   "inter",
+   "capitán"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 3,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 4
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "dep-019",
+  "nombre": "Martín Palermo",
+  "categoria": "Fútbol y deportes",
+  "nacionalidad": "Argentina",
+  "actividad": "Futbolista",
+  "descripcion": "Goleador histórico de Boca Juniors.",
+  "etiquetas": [
+   "fútbol",
+   "boca",
+   "goleador"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 3,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 4
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "dep-020",
+  "nombre": "Diego Simeone",
+  "categoria": "Fútbol y deportes",
+  "nacionalidad": "Argentina",
+  "actividad": "Director técnico",
+  "descripcion": "Entrenador del Atlético de Madrid desde 2011, apodado el Cholo.",
+  "etiquetas": [
+   "fútbol",
+   "técnico",
+   "cholo"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 4,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 4
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "dep-021",
+  "nombre": "Luciana Aymar",
+  "categoria": "Fútbol y deportes",
+  "nacionalidad": "Argentina",
+  "actividad": "Hockista",
+  "descripcion": "Figura de Las Leonas, elegida varias veces mejor jugadora del mundo.",
+  "etiquetas": [
+   "hockey",
+   "leonas"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 3,
+   "31-45": 4,
+   "46-60": 5,
+   "60+": 4
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "dep-022",
+  "nombre": "Carlos Monzón",
+  "categoria": "Fútbol y deportes",
+  "nacionalidad": "Argentina",
+  "actividad": "Boxeador",
+  "descripcion": "Campeón mundial de los medianos en los años 70.",
+  "etiquetas": [
+   "boxeo"
+  ],
+  "dificultad": "dificil",
+  "popularidad": {
+   "18-30": 1,
+   "31-45": 2,
+   "46-60": 3,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "dep-023",
+  "nombre": "Juan Martín del Potro",
+  "categoria": "Fútbol y deportes",
+  "nacionalidad": "Argentina",
+  "actividad": "Tenista",
+  "descripcion": "Campeón del US Open 2009, apodado la Torre de Tandil.",
+  "etiquetas": [
+   "tenis",
+   "tandil"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 4,
+   "31-45": 4,
+   "46-60": 5,
+   "60+": 4
+  },
+  "foto": {
+   "estado": "ok",
+   "archivo": "dep-023.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "autor": "paddynapper",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Juan_Martin_del_Potro_2011.jpg"
+  }
+ },
+ {
+  "id": "dep-024",
+  "nombre": "David Nalbandian",
+  "categoria": "Fútbol y deportes",
+  "nacionalidad": "Argentina",
+  "actividad": "Tenista",
+  "descripcion": "Finalista de Wimbledon 2002 y campeón del Masters 2005.",
+  "etiquetas": [
+   "tenis",
+   "cordobés"
+  ],
+  "dificultad": "dificil",
+  "popularidad": {
+   "18-30": 3,
+   "31-45": 4,
+   "46-60": 4,
+   "60+": 3
+  },
+  "foto": {
+   "estado": "ok",
+   "archivo": "dep-024.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "autor": "Carine06",
+   "fuente": "https://commons.wikimedia.org/wiki/File:David_Nalbandian_Boodles.jpg"
+  }
+ },
+ {
+  "id": "dep-025",
+  "nombre": "Luis Scola",
+  "categoria": "Fútbol y deportes",
+  "nacionalidad": "Argentina",
+  "actividad": "Basquetbolista",
+  "descripcion": "Figura de la Generación Dorada, campeón olímpico en 2004.",
+  "etiquetas": [
+   "básquet",
+   "generación dorada"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 3,
+   "31-45": 4,
+   "46-60": 4,
+   "60+": 4
+  },
+  "foto": {
+   "estado": "ok",
+   "archivo": "dep-025.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "autor": "Basketinside il basket a 360°",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Luis_Scola_Italy_(cropped).jpg"
+  }
+ },
+ {
+  "id": "dep-026",
+  "nombre": "Julián Álvarez",
+  "categoria": "Fútbol y deportes",
+  "nacionalidad": "Argentina",
+  "actividad": "Futbolista",
+  "descripcion": "Delantero apodado la Araña, campeón del mundo en 2022.",
+  "etiquetas": [
+   "fútbol",
+   "selección",
+   "araña"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 5,
+   "46-60": 4,
+   "60+": 2
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "dep-027",
+  "nombre": "Paulo Dybala",
+  "categoria": "Fútbol y deportes",
+  "nacionalidad": "Argentina",
+  "actividad": "Futbolista",
+  "descripcion": "Delantero cordobés apodado la Joya, jugó en la Juventus y la Roma.",
+  "etiquetas": [
+   "fútbol",
+   "joya",
+   "córdoba"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 4,
+   "46-60": 4,
+   "60+": 3
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "dep-028",
+  "nombre": "Juan Sebastián Verón",
+  "categoria": "Fútbol y deportes",
+  "nacionalidad": "Argentina",
+  "actividad": "Futbolista",
+  "descripcion": "Mediocampista apodado la Brujita, presidente de Estudiantes.",
+  "etiquetas": [
+   "fútbol",
+   "estudiantes",
+   "brujita"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 3,
+   "31-45": 4,
+   "46-60": 4,
+   "60+": 3
+  },
+  "foto": {
+   "estado": "ok",
+   "archivo": "dep-028.jpg",
+   "licencia": "Public domain",
+   "autor": "Cazadoroculto",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Juan-sebasti%C3%A1n-ver%C3%B3n-2010.JPG"
+  }
+ },
+ {
+  "id": "dep-029",
+  "nombre": "Gonzalo Higuaín",
+  "categoria": "Fútbol y deportes",
+  "nacionalidad": "Argentina",
+  "actividad": "Futbolista",
+  "descripcion": "Delantero apodado el Pipita, jugó en River, Real Madrid y Juventus.",
+  "etiquetas": [
+   "fútbol",
+   "pipita",
+   "river"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 4,
+   "31-45": 4,
+   "46-60": 4,
+   "60+": 2
+  },
+  "foto": {
+   "estado": "ok",
+   "archivo": "dep-029.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "autor": "Анна Нэсси",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Gonzalo_Higua%C3%ADn_2019.jpg"
+  }
+ },
+ {
+  "id": "tv-001",
+  "nombre": "Susana Giménez",
+  "categoria": "TV y entretenimiento",
+  "nacionalidad": "Argentina",
+  "actividad": "Conductora y actriz",
+  "descripcion": "Figura histórica de la televisión argentina.",
+  "etiquetas": [
+   "conductora",
+   "actriz",
+   "televisión"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 3,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "ok",
+   "archivo": "tv-001.jpg",
+   "licencia": "Public domain",
+   "autor": "Unknown authorUnknown author",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Susana_Gim%C3%A9nez.jpg"
+  }
+ },
+ {
+  "id": "tv-002",
+  "nombre": "Mirtha Legrand",
+  "categoria": "TV y entretenimiento",
+  "nacionalidad": "Argentina",
+  "actividad": "Conductora y actriz",
+  "descripcion": "Referente de la TV, famosa por sus almuerzos con invitados.",
+  "etiquetas": [
+   "conductora",
+   "almuerzos",
+   "televisión"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 4,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "ok",
+   "archivo": "tv-002.jpg",
+   "licencia": "CC BY 2.0",
+   "autor": "Gobierno de la Ciudad de Buenos Aires derivative work: Bleff",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Mirtha_Legrand_2013.jpg"
+  }
+ },
+ {
+  "id": "tv-003",
+  "nombre": "Marcelo Tinelli",
+  "categoria": "TV y entretenimiento",
+  "nacionalidad": "Argentina",
+  "actividad": "Conductor",
+  "descripcion": "Conductor de ShowMatch.",
+  "etiquetas": [
+   "conductor",
+   "showmatch",
+   "televisión"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 4,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "ok",
+   "archivo": "tv-003.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "autor": "Presidencia de la Nacion Argentina",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Marcelo_Tinelli_funeral_Nestor_Kirchner.jpg"
+  }
+ },
+ {
+  "id": "tv-004",
+  "nombre": "Guillermo Francella",
+  "categoria": "TV y entretenimiento",
+  "nacionalidad": "Argentina",
+  "actividad": "Actor",
+  "descripcion": "Actor de El clan y Mi obra maestra.",
+  "etiquetas": [
+   "actor",
+   "cine",
+   "humor"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 4,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "tv-005",
+  "nombre": "Ricardo Darín",
+  "categoria": "TV y entretenimiento",
+  "nacionalidad": "Argentina",
+  "actividad": "Actor",
+  "descripcion": "Protagonista de El secreto de sus ojos, película ganadora del Oscar.",
+  "etiquetas": [
+   "actor",
+   "cine"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 4,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "tv-006",
+  "nombre": "Moria Casán",
+  "categoria": "TV y entretenimiento",
+  "nacionalidad": "Argentina",
+  "actividad": "Actriz y vedette",
+  "descripcion": "Conocida como la One.",
+  "etiquetas": [
+   "vedette",
+   "teatro de revista",
+   "televisión"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 3,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "tv-007",
+  "nombre": "Mario Pergolini",
+  "categoria": "TV y entretenimiento",
+  "nacionalidad": "Argentina",
+  "actividad": "Conductor",
+  "descripcion": "Conductor de Caiga quien caiga y de ciclos de radio y televisión.",
+  "etiquetas": [
+   "conductor",
+   "cqc",
+   "radio"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 3,
+   "31-45": 4,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "tv-008",
+  "nombre": "Alberto Olmedo",
+  "categoria": "TV y entretenimiento",
+  "nacionalidad": "Argentina",
+  "actividad": "Humorista",
+  "descripcion": "Cómico recordado por No toca botón.",
+  "etiquetas": [
+   "humor",
+   "clásico",
+   "televisión"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 2,
+   "31-45": 3,
+   "46-60": 4,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "tv-009",
+  "nombre": "Jorge Porcel",
+  "categoria": "TV y entretenimiento",
+  "nacionalidad": "Argentina",
+  "actividad": "Humorista",
+  "descripcion": "Cómico que formó dupla con Alberto Olmedo.",
+  "etiquetas": [
+   "humor",
+   "clásico",
+   "cine"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 1,
+   "31-45": 3,
+   "46-60": 4,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "tv-010",
+  "nombre": "Tato Bores",
+  "categoria": "TV y entretenimiento",
+  "nacionalidad": "Argentina",
+  "actividad": "Humorista",
+  "descripcion": "Humorista famoso por sus monólogos televisivos.",
+  "etiquetas": [
+   "humor",
+   "clásico"
+  ],
+  "dificultad": "dificil",
+  "popularidad": {
+   "18-30": 1,
+   "31-45": 2,
+   "46-60": 3,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "tv-011",
+  "nombre": "Natalia Oreiro",
+  "categoria": "TV y entretenimiento",
+  "nacionalidad": "Uruguay",
+  "actividad": "Actriz y cantante",
+  "descripcion": "Protagonista de la telenovela Muñeca brava.",
+  "etiquetas": [
+   "actriz",
+   "telenovela",
+   "música"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 4,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "tv-012",
+  "nombre": "Valeria Mazza",
+  "categoria": "TV y entretenimiento",
+  "nacionalidad": "Argentina",
+  "actividad": "Modelo",
+  "descripcion": "Modelo argentina de proyección internacional.",
+  "etiquetas": [
+   "modelo",
+   "moda"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 2,
+   "31-45": 4,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "tv-013",
+  "nombre": "Julio Bocca",
+  "categoria": "TV y entretenimiento",
+  "nacionalidad": "Argentina",
+  "actividad": "Bailarín",
+  "descripcion": "Primer bailarín del American Ballet Theatre.",
+  "etiquetas": [
+   "ballet",
+   "danza"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 2,
+   "31-45": 4,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "tv-014",
+  "nombre": "Luis Brandoni",
+  "categoria": "TV y entretenimiento",
+  "nacionalidad": "Argentina",
+  "actividad": "Actor",
+  "descripcion": "Protagonista de Esperando la carroza.",
+  "etiquetas": [
+   "actor",
+   "cine",
+   "teatro"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 3,
+   "31-45": 4,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "tv-015",
+  "nombre": "Soledad Silveyra",
+  "categoria": "TV y entretenimiento",
+  "nacionalidad": "Argentina",
+  "actividad": "Actriz",
+  "descripcion": "Actriz de teatro, cine y televisión.",
+  "etiquetas": [
+   "actriz",
+   "teatro"
+  ],
+  "dificultad": "dificil",
+  "popularidad": {
+   "18-30": 2,
+   "31-45": 4,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "tv-016",
+  "nombre": "Diego Capusotto",
+  "categoria": "TV y entretenimiento",
+  "nacionalidad": "Argentina",
+  "actividad": "Humorista",
+  "descripcion": "Protagonista de Peter Capusotto y sus videos.",
+  "etiquetas": [
+   "humor",
+   "televisión"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 4,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 3
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "tv-017",
+  "nombre": "Alejandro Dolina",
+  "categoria": "TV y entretenimiento",
+  "nacionalidad": "Argentina",
+  "actividad": "Escritor y conductor de radio",
+  "descripcion": "Conduce el programa de radio La venganza será terrible.",
+  "etiquetas": [
+   "radio",
+   "escritor"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 2,
+   "31-45": 4,
+   "46-60": 4,
+   "60+": 4
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "tv-018",
+  "nombre": "Norma Aleandro",
+  "categoria": "TV y entretenimiento",
+  "nacionalidad": "Argentina",
+  "actividad": "Actriz",
+  "descripcion": "Protagonista de La historia oficial.",
+  "etiquetas": [
+   "actriz",
+   "cine",
+   "teatro"
+  ],
+  "dificultad": "dificil",
+  "popularidad": {
+   "18-30": 1,
+   "31-45": 3,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "tv-019",
+  "nombre": "Graciela Borges",
+  "categoria": "TV y entretenimiento",
+  "nacionalidad": "Argentina",
+  "actividad": "Actriz",
+  "descripcion": "Figura destacada del cine argentino.",
+  "etiquetas": [
+   "actriz",
+   "cine"
+  ],
+  "dificultad": "dificil",
+  "popularidad": {
+   "18-30": 1,
+   "31-45": 3,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "tv-020",
+  "nombre": "Leonardo Sbaraglia",
+  "categoria": "TV y entretenimiento",
+  "nacionalidad": "Argentina",
+  "actividad": "Actor",
+  "descripcion": "Actor de Plata quemada y Dolor y gloria.",
+  "etiquetas": [
+   "actor",
+   "cine"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 3,
+   "31-45": 4,
+   "46-60": 4,
+   "60+": 4
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "tv-021",
+  "nombre": "Wanda Nara",
+  "categoria": "TV y entretenimiento",
+  "nacionalidad": "Argentina",
+  "actividad": "Empresaria y conductora",
+  "descripcion": "Personalidad mediática de la televisión.",
+  "etiquetas": [
+   "televisión",
+   "empresaria"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 4,
+   "46-60": 4,
+   "60+": 2
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "tv-022",
+  "nombre": "Pampita",
+  "categoria": "TV y entretenimiento",
+  "nacionalidad": "Argentina",
+  "actividad": "Modelo y conductora",
+  "descripcion": "Nombre artístico de Carolina Ardohain.",
+  "etiquetas": [
+   "modelo",
+   "televisión"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 4,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "tv-023",
+  "nombre": "Juana Viale",
+  "categoria": "TV y entretenimiento",
+  "nacionalidad": "Argentina",
+  "actividad": "Actriz y conductora",
+  "descripcion": "Nieta de Mirtha Legrand.",
+  "etiquetas": [
+   "actriz",
+   "conductora"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 4,
+   "46-60": 4,
+   "60+": 4
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "tv-024",
+  "nombre": "Jorge Rial",
+  "categoria": "TV y entretenimiento",
+  "nacionalidad": "Argentina",
+  "actividad": "Periodista y conductor",
+  "descripcion": "Periodista de programas de espectáculos.",
+  "etiquetas": [
+   "periodista",
+   "televisión"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 3,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "mus-001",
+  "nombre": "Charly García",
+  "categoria": "Música argentina",
+  "nacionalidad": "Argentina",
+  "actividad": "Músico",
+  "descripcion": "Fundador de Sui Generis y Serú Girán.",
+  "etiquetas": [
+   "rock nacional",
+   "sui generis"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 3,
+   "31-45": 4,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "mus-002",
+  "nombre": "Luis Alberto Spinetta",
+  "categoria": "Música argentina",
+  "nacionalidad": "Argentina",
+  "actividad": "Músico",
+  "descripcion": "Líder de Almendra y Pescado Rabioso.",
+  "etiquetas": [
+   "rock nacional",
+   "almendra",
+   "flaco"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 2,
+   "31-45": 4,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "mus-003",
+  "nombre": "Gustavo Cerati",
+  "categoria": "Música argentina",
+  "nacionalidad": "Argentina",
+  "actividad": "Músico",
+  "descripcion": "Líder de Soda Stereo.",
+  "etiquetas": [
+   "rock nacional",
+   "soda stereo"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 4,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "mus-004",
+  "nombre": "Fito Páez",
+  "categoria": "Música argentina",
+  "nacionalidad": "Argentina",
+  "actividad": "Músico",
+  "descripcion": "Autor del disco El amor después del amor.",
+  "etiquetas": [
+   "rock nacional",
+   "rosario"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 3,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "mus-005",
+  "nombre": "Andrés Calamaro",
+  "categoria": "Música argentina",
+  "nacionalidad": "Argentina",
+  "actividad": "Músico",
+  "descripcion": "Integró Los Abuelos de la Nada y Los Rodríguez.",
+  "etiquetas": [
+   "rock nacional",
+   "abuelos de la nada"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 3,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "mus-006",
+  "nombre": "Mercedes Sosa",
+  "categoria": "Música argentina",
+  "nacionalidad": "Argentina",
+  "actividad": "Cantante",
+  "descripcion": "Conocida como La Negra, gran voz del folklore.",
+  "etiquetas": [
+   "folklore",
+   "tucumana"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 2,
+   "31-45": 4,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "mus-007",
+  "nombre": "Carlos Gardel",
+  "categoria": "Música argentina",
+  "nacionalidad": "Argentina",
+  "actividad": "Cantante",
+  "descripcion": "Figura máxima del tango.",
+  "etiquetas": [
+   "tango"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 2,
+   "31-45": 3,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "ok",
+   "archivo": "mus-007.jpg",
+   "licencia": "Public domain",
+   "autor": "Unidentified photographer",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Carlos_Gardel_en_Par%C3%ADs,_a%C3%B1o_1923.jpg"
+  }
+ },
+ {
+  "id": "mus-008",
+  "nombre": "Astor Piazzolla",
+  "categoria": "Música argentina",
+  "nacionalidad": "Argentina",
+  "actividad": "Músico",
+  "descripcion": "Bandoneonista, creador del tango nuevo.",
+  "etiquetas": [
+   "tango",
+   "bandoneón"
+  ],
+  "dificultad": "dificil",
+  "popularidad": {
+   "18-30": 1,
+   "31-45": 2,
+   "46-60": 4,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "mus-009",
+  "nombre": "Lali Espósito",
+  "categoria": "Música argentina",
+  "nacionalidad": "Argentina",
+  "actividad": "Cantante y actriz",
+  "descripcion": "Cantante pop surgida de Casi Ángeles.",
+  "etiquetas": [
+   "pop",
+   "actriz"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 5,
+   "46-60": 4,
+   "60+": 2
+  },
+  "foto": {
+   "estado": "ok",
+   "archivo": "mus-009.jpg",
+   "licencia": "CC BY 2.0",
+   "autor": "https://www.flickr.com/photos/culturacdmx/",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Lali_Esp%C3%B3sito_Premios_F%C3%A9nix_(31915561718)_(cropped).jpg"
+  }
+ },
+ {
+  "id": "mus-010",
+  "nombre": "Tini Stoessel",
+  "categoria": "Música argentina",
+  "nacionalidad": "Argentina",
+  "actividad": "Cantante y actriz",
+  "descripcion": "Protagonista de la serie Violetta.",
+  "etiquetas": [
+   "pop",
+   "violetta"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 4,
+   "46-60": 4,
+   "60+": 1
+  },
+  "foto": {
+   "estado": "ok",
+   "archivo": "mus-010.png",
+   "licencia": "CC BY-SA 4.0",
+   "autor": "Bestinita",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Martina_(TINI)_Stoessel_autographe,_signature.png"
+  }
+ },
+ {
+  "id": "mus-011",
+  "nombre": "Soledad Pastorutti",
+  "categoria": "Música argentina",
+  "nacionalidad": "Argentina",
+  "actividad": "Cantante",
+  "descripcion": "Cantante folklórica conocida como La Sole.",
+  "etiquetas": [
+   "folklore",
+   "la sole"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 3,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "ok",
+   "archivo": "mus-011.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "autor": "Diego Andrés Senesi",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Soledad_Pastorutti_Vivir_Es_Hoy_Cordoba.jpg"
+  }
+ },
+ {
+  "id": "mus-012",
+  "nombre": "Palito Ortega",
+  "categoria": "Música argentina",
+  "nacionalidad": "Argentina",
+  "actividad": "Cantante",
+  "descripcion": "Cantante romántico de los años 60.",
+  "etiquetas": [
+   "balada",
+   "tucumano"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 1,
+   "31-45": 2,
+   "46-60": 4,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "ok",
+   "archivo": "mus-012.jpg",
+   "licencia": "CC BY-SA 2.0",
+   "autor": "Damian Zanini",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Palito_Ortega_(2).jpg"
+  }
+ },
+ {
+  "id": "mus-013",
+  "nombre": "Sandro",
+  "categoria": "Música argentina",
+  "nacionalidad": "Argentina",
+  "actividad": "Cantante",
+  "descripcion": "Conocido como el Gitano, ídolo de los años 60 y 70.",
+  "etiquetas": [
+   "balada",
+   "sandro de américa"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 2,
+   "31-45": 4,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "mus-014",
+  "nombre": "Leonardo Favio",
+  "categoria": "Música argentina",
+  "nacionalidad": "Argentina",
+  "actividad": "Cantante y director de cine",
+  "descripcion": "Cantante romántico que también dirigió películas.",
+  "etiquetas": [
+   "balada",
+   "cine"
+  ],
+  "dificultad": "dificil",
+  "popularidad": {
+   "18-30": 1,
+   "31-45": 3,
+   "46-60": 4,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "ok",
+   "archivo": "mus-014.jpg",
+   "licencia": "Public domain",
+   "autor": "Desconocido - Revista Primera Plana",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Leonardo_Favio_(1968).jpg"
+  }
+ },
+ {
+  "id": "mus-015",
+  "nombre": "Gilda",
+  "categoria": "Música argentina",
+  "nacionalidad": "Argentina",
+  "actividad": "Cantante",
+  "descripcion": "Cantante de cumbia fallecida en 1996.",
+  "etiquetas": [
+   "cumbia"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 3,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "mus-016",
+  "nombre": "Rodrigo Bueno",
+  "categoria": "Música argentina",
+  "nacionalidad": "Argentina",
+  "actividad": "Cantante",
+  "descripcion": "Apodado el Potro, ídolo de la cumbia y el cuarteto.",
+  "etiquetas": [
+   "cumbia",
+   "cuarteto",
+   "potro"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 3,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "mus-017",
+  "nombre": "Indio Solari",
+  "categoria": "Música argentina",
+  "nacionalidad": "Argentina",
+  "actividad": "Músico",
+  "descripcion": "Líder de Patricio Rey y sus Redonditos de Ricota.",
+  "etiquetas": [
+   "rock nacional",
+   "redonditos"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 3,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "mus-018",
+  "nombre": "Pappo",
+  "categoria": "Música argentina",
+  "nacionalidad": "Argentina",
+  "actividad": "Guitarrista",
+  "descripcion": "Referente del blues y del rock pesado argentino.",
+  "etiquetas": [
+   "rock nacional",
+   "blues",
+   "guitarra"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 2,
+   "31-45": 4,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "mus-019",
+  "nombre": "León Gieco",
+  "categoria": "Música argentina",
+  "nacionalidad": "Argentina",
+  "actividad": "Músico",
+  "descripcion": "Autor de Sólo le pido a Dios.",
+  "etiquetas": [
+   "folk",
+   "rock nacional"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 3,
+   "31-45": 4,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "mus-020",
+  "nombre": "Bizarrap",
+  "categoria": "Música argentina",
+  "nacionalidad": "Argentina",
+  "actividad": "Productor musical",
+  "descripcion": "Productor de las Music Sessions.",
+  "etiquetas": [
+   "urbano",
+   "productor"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 4,
+   "46-60": 2,
+   "60+": 0
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "mus-021",
+  "nombre": "Duki",
+  "categoria": "Música argentina",
+  "nacionalidad": "Argentina",
+  "actividad": "Cantante",
+  "descripcion": "Referente del trap argentino.",
+  "etiquetas": [
+   "trap",
+   "urbano"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 3,
+   "46-60": 2,
+   "60+": 0
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "mus-022",
+  "nombre": "María Elena Walsh",
+  "categoria": "Música argentina",
+  "nacionalidad": "Argentina",
+  "actividad": "Escritora y cantautora",
+  "descripcion": "Autora de Manuelita y El reino del revés.",
+  "etiquetas": [
+   "infantil",
+   "escritora"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 3,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "mus-023",
+  "nombre": "Ricardo Mollo",
+  "categoria": "Música argentina",
+  "nacionalidad": "Argentina",
+  "actividad": "Músico",
+  "descripcion": "Cantante y guitarrista de Divididos.",
+  "etiquetas": [
+   "rock nacional",
+   "divididos"
+  ],
+  "dificultad": "dificil",
+  "popularidad": {
+   "18-30": 2,
+   "31-45": 4,
+   "46-60": 5,
+   "60+": 4
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "mus-024",
+  "nombre": "Pablo Lescano",
+  "categoria": "Música argentina",
+  "nacionalidad": "Argentina",
+  "actividad": "Músico",
+  "descripcion": "Líder de Damas Gratis.",
+  "etiquetas": [
+   "cumbia villera",
+   "damas gratis"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 4,
+   "31-45": 4,
+   "46-60": 4,
+   "60+": 2
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "int-001",
+  "nombre": "Michael Jackson",
+  "categoria": "Famosos internacionales",
+  "nacionalidad": "Estados Unidos",
+  "actividad": "Cantante",
+  "descripcion": "Conocido como el Rey del Pop.",
+  "etiquetas": [
+   "pop",
+   "música"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 4,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "int-002",
+  "nombre": "Madonna",
+  "categoria": "Famosos internacionales",
+  "nacionalidad": "Estados Unidos",
+  "actividad": "Cantante",
+  "descripcion": "Conocida como la Reina del Pop.",
+  "etiquetas": [
+   "pop",
+   "música"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 4,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "int-003",
+  "nombre": "Shakira",
+  "categoria": "Famosos internacionales",
+  "nacionalidad": "Colombia",
+  "actividad": "Cantante",
+  "descripcion": "Autora de Hips Don't Lie y Waka Waka.",
+  "etiquetas": [
+   "pop",
+   "música"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "int-004",
+  "nombre": "Bad Bunny",
+  "categoria": "Famosos internacionales",
+  "nacionalidad": "Puerto Rico",
+  "actividad": "Cantante",
+  "descripcion": "Referente del reggaetón y el trap.",
+  "etiquetas": [
+   "urbano",
+   "música"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 4,
+   "46-60": 3,
+   "60+": 0
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "int-005",
+  "nombre": "Michael Jordan",
+  "categoria": "Famosos internacionales",
+  "nacionalidad": "Estados Unidos",
+  "actividad": "Basquetbolista",
+  "descripcion": "Seis veces campeón de la NBA con los Chicago Bulls.",
+  "etiquetas": [
+   "básquet",
+   "nba"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 4,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "int-006",
+  "nombre": "Cristiano Ronaldo",
+  "categoria": "Famosos internacionales",
+  "nacionalidad": "Portugal",
+  "actividad": "Futbolista",
+  "descripcion": "Delantero portugués, cinco veces ganador del Balón de Oro.",
+  "etiquetas": [
+   "fútbol",
+   "portugal"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "int-007",
+  "nombre": "Pelé",
+  "categoria": "Famosos internacionales",
+  "nacionalidad": "Brasil",
+  "actividad": "Futbolista",
+  "descripcion": "Tricampeón del mundo con Brasil.",
+  "etiquetas": [
+   "fútbol",
+   "brasil",
+   "mundial"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 3,
+   "31-45": 4,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "int-008",
+  "nombre": "Freddie Mercury",
+  "categoria": "Famosos internacionales",
+  "nacionalidad": "Reino Unido",
+  "actividad": "Cantante",
+  "descripcion": "Voz de la banda Queen.",
+  "etiquetas": [
+   "rock",
+   "queen"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 4,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "int-009",
+  "nombre": "John Lennon",
+  "categoria": "Famosos internacionales",
+  "nacionalidad": "Reino Unido",
+  "actividad": "Músico",
+  "descripcion": "Integrante de The Beatles.",
+  "etiquetas": [
+   "rock",
+   "beatles"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 3,
+   "31-45": 4,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "int-010",
+  "nombre": "Elvis Presley",
+  "categoria": "Famosos internacionales",
+  "nacionalidad": "Estados Unidos",
+  "actividad": "Cantante",
+  "descripcion": "Conocido como el Rey del Rock and Roll.",
+  "etiquetas": [
+   "rock and roll",
+   "música"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 2,
+   "31-45": 3,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "int-011",
+  "nombre": "Marilyn Monroe",
+  "categoria": "Famosos internacionales",
+  "nacionalidad": "Estados Unidos",
+  "actividad": "Actriz",
+  "descripcion": "Ícono del cine de los años 50.",
+  "etiquetas": [
+   "cine",
+   "clásico"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 3,
+   "31-45": 4,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "int-012",
+  "nombre": "Leonardo DiCaprio",
+  "categoria": "Famosos internacionales",
+  "nacionalidad": "Estados Unidos",
+  "actividad": "Actor",
+  "descripcion": "Protagonista de Titanic y El lobo de Wall Street.",
+  "etiquetas": [
+   "cine",
+   "actor"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 1
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "int-013",
+  "nombre": "Will Smith",
+  "categoria": "Famosos internacionales",
+  "nacionalidad": "Estados Unidos",
+  "actividad": "Actor",
+  "descripcion": "Protagonista de Hombres de negro.",
+  "etiquetas": [
+   "cine",
+   "actor"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "int-014",
+  "nombre": "Brad Pitt",
+  "categoria": "Famosos internacionales",
+  "nacionalidad": "Estados Unidos",
+  "actividad": "Actor",
+  "descripcion": "Protagonista de El club de la pelea.",
+  "etiquetas": [
+   "cine",
+   "actor"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "int-015",
+  "nombre": "Taylor Swift",
+  "categoria": "Famosos internacionales",
+  "nacionalidad": "Estados Unidos",
+  "actividad": "Cantante",
+  "descripcion": "Cantautora pop de fama mundial.",
+  "etiquetas": [
+   "pop",
+   "música"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 5,
+   "46-60": 3,
+   "60+": 0
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "int-016",
+  "nombre": "Beyoncé",
+  "categoria": "Famosos internacionales",
+  "nacionalidad": "Estados Unidos",
+  "actividad": "Cantante",
+  "descripcion": "Cantante y compositora de fama mundial.",
+  "etiquetas": [
+   "pop",
+   "música"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 5,
+   "46-60": 3,
+   "60+": 0
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "int-017",
+  "nombre": "Charles Chaplin",
+  "categoria": "Famosos internacionales",
+  "nacionalidad": "Reino Unido",
+  "actividad": "Actor y director",
+  "descripcion": "Creador del personaje Charlot.",
+  "etiquetas": [
+   "cine mudo",
+   "clásico"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 2,
+   "31-45": 3,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "int-018",
+  "nombre": "Albert Einstein",
+  "categoria": "Famosos internacionales",
+  "nacionalidad": "Alemania",
+  "actividad": "Físico",
+  "descripcion": "Autor de la teoría de la relatividad.",
+  "etiquetas": [
+   "ciencia"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "int-019",
+  "nombre": "Ricky Martin",
+  "categoria": "Famosos internacionales",
+  "nacionalidad": "Puerto Rico",
+  "actividad": "Cantante",
+  "descripcion": "Autor de Livin' la vida loca.",
+  "etiquetas": [
+   "pop",
+   "música"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 3,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "int-020",
+  "nombre": "Luis Miguel",
+  "categoria": "Famosos internacionales",
+  "nacionalidad": "México",
+  "actividad": "Cantante",
+  "descripcion": "Conocido como el Sol de México.",
+  "etiquetas": [
+   "balada",
+   "música"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 2,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "ok",
+   "archivo": "int-020.jpg",
+   "licencia": "CC BY 2.0",
+   "autor": "Julio Enriquez",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Luis_Miguel.jpg"
+  }
+ },
+ {
+  "id": "int-021",
+  "nombre": "Arnold Schwarzenegger",
+  "categoria": "Famosos internacionales",
+  "nacionalidad": "Austria",
+  "actividad": "Actor",
+  "descripcion": "Protagonista de Terminator.",
+  "etiquetas": [
+   "cine",
+   "acción"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 4,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "int-022",
+  "nombre": "Tom Cruise",
+  "categoria": "Famosos internacionales",
+  "nacionalidad": "Estados Unidos",
+  "actividad": "Actor",
+  "descripcion": "Protagonista de Misión: Imposible.",
+  "etiquetas": [
+   "cine",
+   "acción"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 4,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "ok",
+   "archivo": "int-022.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "autor": "Gage Skidmore",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Tom_Cruise_by_Gage_Skidmore_2.jpg"
+  }
+ },
+ {
+  "id": "int-023",
+  "nombre": "Bruce Lee",
+  "categoria": "Famosos internacionales",
+  "nacionalidad": "Hong Kong",
+  "actividad": "Actor y artista marcial",
+  "descripcion": "Estrella de las artes marciales en el cine.",
+  "etiquetas": [
+   "cine",
+   "artes marciales"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 3,
+   "31-45": 4,
+   "46-60": 4,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "ok",
+   "archivo": "int-023.jpg",
+   "licencia": "Public domain",
+   "autor": "National General Pictures",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Bruce_Lee_1973_(cropped).jpg"
+  }
+ },
+ {
+  "id": "int-024",
+  "nombre": "Lady Di",
+  "categoria": "Famosos internacionales",
+  "nacionalidad": "Reino Unido",
+  "actividad": "Princesa de Gales",
+  "descripcion": "Nombre popular de Diana, princesa de Gales.",
+  "etiquetas": [
+   "realeza"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 3,
+   "31-45": 4,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "ok",
+   "archivo": "int-024.jpg",
+   "licencia": "Public domain",
+   "autor": "Leonardo da Vinci",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Lady_with_an_Ermine_-_Leonardo_da_Vinci_-_Google_Art_Project.jpg"
+  }
+ },
+ {
+  "id": "int-025",
+  "nombre": "Neymar",
+  "categoria": "Famosos internacionales",
+  "nacionalidad": "Brasil",
+  "actividad": "Futbolista",
+  "descripcion": "Delantero brasileño de fama mundial.",
+  "etiquetas": [
+   "fútbol",
+   "brasil"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 5,
+   "46-60": 4,
+   "60+": 2
+  },
+  "foto": {
+   "estado": "ok",
+   "archivo": "int-025.jpg",
+   "licencia": "CC BY-SA 4.0",
+   "autor": "Granada",
+   "fuente": "https://commons.wikimedia.org/wiki/File:20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Neymar_850_1705.jpg"
+  }
+ },
+ {
+  "id": "int-026",
+  "nombre": "Kylian Mbappé",
+  "categoria": "Famosos internacionales",
+  "nacionalidad": "Francia",
+  "actividad": "Futbolista",
+  "descripcion": "Marcó tres goles en la final del Mundial 2022 contra Argentina.",
+  "etiquetas": [
+   "fútbol",
+   "francia"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 5,
+   "46-60": 4,
+   "60+": 2
+  },
+  "foto": {
+   "estado": "ok",
+   "archivo": "int-026.jpg",
+   "licencia": "CC BY-SA 3.0",
+   "autor": "Антон Зайцев",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Kylian_Mbapp%C3%A9_2018.jpg"
+  }
+ },
+ {
+  "id": "int-027",
+  "nombre": "Bob Marley",
+  "categoria": "Famosos internacionales",
+  "nacionalidad": "Jamaica",
+  "actividad": "Cantante",
+  "descripcion": "Máximo referente del reggae.",
+  "etiquetas": [
+   "reggae",
+   "música"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 4,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "ok",
+   "archivo": "int-027.jpg",
+   "licencia": "CC BY 2.0",
+   "autor": "Eddie Mallin",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Bob-Marley.jpg"
+  }
+ },
+ {
+  "id": "fic-001",
+  "nombre": "Mafalda",
+  "categoria": "Personajes ficticios",
+  "nacionalidad": "Argentina",
+  "actividad": "Personaje de historieta",
+  "descripcion": "Niña creada por Quino.",
+  "etiquetas": [
+   "historieta",
+   "quino"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "fic-002",
+  "nombre": "Patoruzú",
+  "categoria": "Personajes ficticios",
+  "nacionalidad": "Argentina",
+  "actividad": "Personaje de historieta",
+  "descripcion": "Cacique tehuelche de la historieta de Dante Quinterno.",
+  "etiquetas": [
+   "historieta"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 2,
+   "31-45": 3,
+   "46-60": 4,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "fic-003",
+  "nombre": "Gaturro",
+  "categoria": "Personajes ficticios",
+  "nacionalidad": "Argentina",
+  "actividad": "Personaje de historieta",
+  "descripcion": "Gato creado por Nik.",
+  "etiquetas": [
+   "historieta",
+   "nik"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 4
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "fic-004",
+  "nombre": "Clemente",
+  "categoria": "Personajes ficticios",
+  "nacionalidad": "Argentina",
+  "actividad": "Personaje de historieta",
+  "descripcion": "Pájaro sin brazos creado por Caloi.",
+  "etiquetas": [
+   "historieta",
+   "caloi"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 2,
+   "31-45": 4,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "fic-005",
+  "nombre": "Condorito",
+  "categoria": "Personajes ficticios",
+  "nacionalidad": "Chile",
+  "actividad": "Personaje de historieta",
+  "descripcion": "Cóndor de la historieta chilena.",
+  "etiquetas": [
+   "historieta"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 2,
+   "31-45": 4,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "fic-006",
+  "nombre": "El Chavo del 8",
+  "categoria": "Personajes ficticios",
+  "nacionalidad": "México",
+  "actividad": "Personaje de televisión",
+  "descripcion": "Niño del programa de Chespirito.",
+  "etiquetas": [
+   "televisión",
+   "chespirito"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "fic-007",
+  "nombre": "El Chapulín Colorado",
+  "categoria": "Personajes ficticios",
+  "nacionalidad": "México",
+  "actividad": "Personaje de televisión",
+  "descripcion": "Superhéroe cómico de Chespirito.",
+  "etiquetas": [
+   "televisión",
+   "chespirito"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "fic-008",
+  "nombre": "Homero Simpson",
+  "categoria": "Personajes ficticios",
+  "nacionalidad": "Estados Unidos",
+  "actividad": "Personaje de televisión",
+  "descripcion": "Padre de la familia de Los Simpson.",
+  "etiquetas": [
+   "dibujo animado",
+   "los simpson"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "fic-009",
+  "nombre": "Bob Esponja",
+  "categoria": "Personajes ficticios",
+  "nacionalidad": "Estados Unidos",
+  "actividad": "Personaje de televisión",
+  "descripcion": "Esponja amarilla que vive en Fondo de Bikini.",
+  "etiquetas": [
+   "dibujo animado"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 1
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "fic-010",
+  "nombre": "Mickey Mouse",
+  "categoria": "Personajes ficticios",
+  "nacionalidad": "Estados Unidos",
+  "actividad": "Personaje de animación",
+  "descripcion": "Ratón símbolo de Disney.",
+  "etiquetas": [
+   "dibujo animado",
+   "disney"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "fic-011",
+  "nombre": "Superman",
+  "categoria": "Personajes ficticios",
+  "nacionalidad": "Estados Unidos",
+  "actividad": "Superhéroe",
+  "descripcion": "Héroe de Metrópolis que viene de Krypton.",
+  "etiquetas": [
+   "superhéroe",
+   "dc"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "fic-012",
+  "nombre": "Batman",
+  "categoria": "Personajes ficticios",
+  "nacionalidad": "Estados Unidos",
+  "actividad": "Superhéroe",
+  "descripcion": "Héroe que protege a Ciudad Gótica.",
+  "etiquetas": [
+   "superhéroe",
+   "dc"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "fic-013",
+  "nombre": "Spider-Man",
+  "categoria": "Personajes ficticios",
+  "nacionalidad": "Estados Unidos",
+  "actividad": "Superhéroe",
+  "descripcion": "Héroe conocido en Latinoamérica como el Hombre Araña.",
+  "etiquetas": [
+   "superhéroe",
+   "marvel"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "fic-014",
+  "nombre": "Harry Potter",
+  "categoria": "Personajes ficticios",
+  "nacionalidad": "Reino Unido",
+  "actividad": "Personaje literario",
+  "descripcion": "Joven mago de la saga de J. K. Rowling.",
+  "etiquetas": [
+   "libros",
+   "cine",
+   "magia"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 1
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "fic-015",
+  "nombre": "Darth Vader",
+  "categoria": "Personajes ficticios",
+  "nacionalidad": "Estados Unidos",
+  "actividad": "Personaje de cine",
+  "descripcion": "Villano de la saga Star Wars.",
+  "etiquetas": [
+   "cine",
+   "star wars"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 1
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "fic-016",
+  "nombre": "Shrek",
+  "categoria": "Personajes ficticios",
+  "nacionalidad": "Estados Unidos",
+  "actividad": "Personaje de animación",
+  "descripcion": "Ogro verde protagonista de una saga animada.",
+  "etiquetas": [
+   "cine",
+   "dibujo animado"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 1
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "fic-017",
+  "nombre": "Goku",
+  "categoria": "Personajes ficticios",
+  "nacionalidad": "Japón",
+  "actividad": "Personaje de animé",
+  "descripcion": "Protagonista de Dragon Ball.",
+  "etiquetas": [
+   "animé",
+   "dragon ball"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 4,
+   "46-60": 3,
+   "60+": 0
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "fic-018",
+  "nombre": "Pikachu",
+  "categoria": "Personajes ficticios",
+  "nacionalidad": "Japón",
+  "actividad": "Personaje de animé",
+  "descripcion": "Pokémon eléctrico, compañero de Ash.",
+  "etiquetas": [
+   "animé",
+   "pokémon"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 4,
+   "46-60": 3,
+   "60+": 0
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "fic-019",
+  "nombre": "Mario Bros",
+  "categoria": "Personajes ficticios",
+  "nacionalidad": "Japón",
+  "actividad": "Personaje de videojuegos",
+  "descripcion": "Plomero bigotudo de Nintendo.",
+  "etiquetas": [
+   "videojuegos",
+   "nintendo"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 5,
+   "46-60": 3,
+   "60+": 0
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "fic-020",
+  "nombre": "Zamba",
+  "categoria": "Personajes ficticios",
+  "nacionalidad": "Argentina",
+  "actividad": "Personaje de televisión",
+  "descripcion": "Niño de la serie educativa La asombrosa excursión de Zamba.",
+  "etiquetas": [
+   "televisión",
+   "infantil",
+   "historia"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 4,
+   "31-45": 4,
+   "46-60": 4,
+   "60+": 0
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "fic-021",
+  "nombre": "Isidoro Cañones",
+  "categoria": "Personajes ficticios",
+  "nacionalidad": "Argentina",
+  "actividad": "Personaje de historieta",
+  "descripcion": "Playboy porteño de la historieta de Dante Quinterno.",
+  "etiquetas": [
+   "historieta"
+  ],
+  "dificultad": "dificil",
+  "popularidad": {
+   "18-30": 1,
+   "31-45": 2,
+   "46-60": 4,
+   "60+": 4
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "fic-022",
+  "nombre": "El Eternauta",
+  "categoria": "Personajes ficticios",
+  "nacionalidad": "Argentina",
+  "actividad": "Personaje de historieta",
+  "descripcion": "Protagonista de la historieta de Héctor Oesterheld.",
+  "etiquetas": [
+   "historieta",
+   "ciencia ficción"
+  ],
+  "dificultad": "dificil",
+  "popularidad": {
+   "18-30": 2,
+   "31-45": 3,
+   "46-60": 5,
+   "60+": 4
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "fic-023",
+  "nombre": "Don Quijote",
+  "categoria": "Personajes ficticios",
+  "nacionalidad": "España",
+  "actividad": "Personaje literario",
+  "descripcion": "Caballero creado por Miguel de Cervantes.",
+  "etiquetas": [
+   "libros",
+   "literatura"
+  ],
+  "dificultad": "media",
+  "popularidad": {
+   "18-30": 3,
+   "31-45": 5,
+   "46-60": 5,
+   "60+": 5
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ },
+ {
+  "id": "fic-024",
+  "nombre": "Elsa",
+  "categoria": "Personajes ficticios",
+  "nacionalidad": "Estados Unidos",
+  "actividad": "Personaje de animación",
+  "descripcion": "Reina de Arendelle en la película Frozen.",
+  "etiquetas": [
+   "cine",
+   "disney"
+  ],
+  "dificultad": "facil",
+  "popularidad": {
+   "18-30": 5,
+   "31-45": 5,
+   "46-60": 4,
+   "60+": 0
+  },
+  "foto": {
+   "estado": "pendiente",
+   "archivo": "",
+   "licencia": null,
+   "autor": null,
+   "fuente": null
+  }
+ }
+]

@@ -1,0 +1,4116 @@
+[
+ {
+  "id": "rock-001",
+  "titulo": "De música ligera",
+  "artista": "Soda Stereo",
+  "categoria": "Rock nacional",
+  "categoriaClave": "rock",
+  "genero": "Rock",
+  "decada": 1990,
+  "origen": "Argentina",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "rock-002",
+  "titulo": "Persiana americana",
+  "artista": "Soda Stereo",
+  "categoria": "Rock nacional",
+  "categoriaClave": "rock",
+  "genero": "Rock",
+  "decada": 1980,
+  "origen": "Argentina",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "rock-003",
+  "titulo": "Trátame suavemente",
+  "artista": "Soda Stereo",
+  "categoria": "Rock nacional",
+  "categoriaClave": "rock",
+  "genero": "Rock",
+  "decada": 1980,
+  "origen": "Argentina",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "rock-004",
+  "titulo": "Cuando pase el temblor",
+  "artista": "Soda Stereo",
+  "categoria": "Rock nacional",
+  "categoriaClave": "rock",
+  "genero": "Rock",
+  "decada": 1980,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "rock-005",
+  "titulo": "Té para tres",
+  "artista": "Soda Stereo",
+  "categoria": "Rock nacional",
+  "categoriaClave": "rock",
+  "genero": "Rock",
+  "decada": 1980,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "rock-006",
+  "titulo": "En la ciudad de la furia",
+  "artista": "Soda Stereo",
+  "categoria": "Rock nacional",
+  "categoriaClave": "rock",
+  "genero": "Rock",
+  "decada": 1980,
+  "origen": "Argentina",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "rock-007",
+  "titulo": "Mil horas",
+  "artista": "Los Abuelos de la Nada",
+  "categoria": "Rock nacional",
+  "categoriaClave": "rock",
+  "genero": "Rock",
+  "decada": 1980,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "rock-008",
+  "titulo": "Himno de mi corazón",
+  "artista": "Los Abuelos de la Nada",
+  "categoria": "Rock nacional",
+  "categoriaClave": "rock",
+  "genero": "Rock",
+  "decada": 1980,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "rock-009",
+  "titulo": "Demoliendo hoteles",
+  "artista": "Charly García",
+  "categoria": "Rock nacional",
+  "categoriaClave": "rock",
+  "genero": "Rock",
+  "decada": 1980,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "rock-010",
+  "titulo": "Los dinosaurios",
+  "artista": "Charly García",
+  "categoria": "Rock nacional",
+  "categoriaClave": "rock",
+  "genero": "Rock",
+  "decada": 1980,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "rock-011",
+  "titulo": "Canción para mi muerte",
+  "artista": "Sui Generis",
+  "categoria": "Rock nacional",
+  "categoriaClave": "rock",
+  "genero": "Rock",
+  "decada": 1970,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "rock-012",
+  "titulo": "Rasguña las piedras",
+  "artista": "Sui Generis",
+  "categoria": "Rock nacional",
+  "categoriaClave": "rock",
+  "genero": "Rock",
+  "decada": 1970,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "rock-013",
+  "titulo": "Muchacha ojos de papel",
+  "artista": "Almendra",
+  "categoria": "Rock nacional",
+  "categoriaClave": "rock",
+  "genero": "Rock",
+  "decada": 1960,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "rock-014",
+  "titulo": "La balsa",
+  "artista": "Los Gatos",
+  "categoria": "Rock nacional",
+  "categoriaClave": "rock",
+  "genero": "Rock",
+  "decada": 1960,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "rock-015",
+  "titulo": "Yo vengo a ofrecer mi corazón",
+  "artista": "Fito Páez",
+  "categoria": "Rock nacional",
+  "categoriaClave": "rock",
+  "genero": "Rock",
+  "decada": 1980,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "rock-016",
+  "titulo": "Flaca",
+  "artista": "Andrés Calamaro",
+  "categoria": "Rock nacional",
+  "categoriaClave": "rock",
+  "genero": "Rock",
+  "decada": 1990,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "rock-017",
+  "titulo": "Spaghetti del rock",
+  "artista": "Divididos",
+  "categoria": "Rock nacional",
+  "categoriaClave": "rock",
+  "genero": "Rock",
+  "decada": 1990,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "rock-018",
+  "titulo": "Matador",
+  "artista": "Los Fabulosos Cadillacs",
+  "categoria": "Rock nacional",
+  "categoriaClave": "rock",
+  "genero": "Rock",
+  "decada": 1990,
+  "origen": "Argentina",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "rock-019",
+  "titulo": "Vasos vacíos",
+  "artista": "Los Fabulosos Cadillacs",
+  "categoria": "Rock nacional",
+  "categoriaClave": "rock",
+  "genero": "Rock",
+  "decada": 1990,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "rock-020",
+  "titulo": "Ay ay ay",
+  "artista": "Los Piojos",
+  "categoria": "Rock nacional",
+  "categoriaClave": "rock",
+  "genero": "Rock",
+  "decada": 1990,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "rock-021",
+  "titulo": "Verano del 92",
+  "artista": "Los Piojos",
+  "categoria": "Rock nacional",
+  "categoriaClave": "rock",
+  "genero": "Rock",
+  "decada": 1990,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "rock-022",
+  "titulo": "Auto rojo",
+  "artista": "Vilma Palma e Vampiros",
+  "categoria": "Rock nacional",
+  "categoriaClave": "rock",
+  "genero": "Rock",
+  "decada": 1990,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "rock-023",
+  "titulo": "Crimen",
+  "artista": "Gustavo Cerati",
+  "categoria": "Rock nacional",
+  "categoriaClave": "rock",
+  "genero": "Rock",
+  "decada": 1990,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "rock-024",
+  "titulo": "Puente",
+  "artista": "Gustavo Cerati",
+  "categoria": "Rock nacional",
+  "categoriaClave": "rock",
+  "genero": "Rock",
+  "decada": 1990,
+  "origen": "Argentina",
+  "dificultad": "dificil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "rock-025",
+  "titulo": "Y qué",
+  "artista": "Babasónicos",
+  "categoria": "Rock nacional",
+  "categoriaClave": "rock",
+  "genero": "Rock",
+  "decada": 2000,
+  "origen": "Argentina",
+  "dificultad": "dificil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "rock-026",
+  "titulo": "Barro tal vez",
+  "artista": "Pescado Rabioso",
+  "categoria": "Rock nacional",
+  "categoriaClave": "rock",
+  "genero": "Rock",
+  "decada": 1970,
+  "origen": "Argentina",
+  "dificultad": "dificil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "cumbia-001",
+  "titulo": "No me arrepiento de este amor",
+  "artista": "Gilda",
+  "categoria": "Cumbia",
+  "categoriaClave": "cumbia",
+  "genero": "Cumbia",
+  "decada": 1990,
+  "origen": "Argentina",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "cumbia-002",
+  "titulo": "Corazón valiente",
+  "artista": "Gilda",
+  "categoria": "Cumbia",
+  "categoriaClave": "cumbia",
+  "genero": "Cumbia",
+  "decada": 1990,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "cumbia-003",
+  "titulo": "Fuiste",
+  "artista": "Gilda",
+  "categoria": "Cumbia",
+  "categoriaClave": "cumbia",
+  "genero": "Cumbia",
+  "decada": 1990,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "cumbia-004",
+  "titulo": "La colegiala",
+  "artista": "Rodolfo Aicardi",
+  "categoria": "Cumbia",
+  "categoriaClave": "cumbia",
+  "genero": "Cumbia",
+  "decada": 1970,
+  "origen": "Colombia",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "cumbia-005",
+  "titulo": "Se te ve la tanga",
+  "artista": "Damas Gratis",
+  "categoria": "Cumbia",
+  "categoriaClave": "cumbia",
+  "genero": "Cumbia villera",
+  "decada": null,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro",
+   "decada"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "cumbia-006",
+  "titulo": "Bombón asesino",
+  "artista": "Los Palmeras",
+  "categoria": "Cumbia",
+  "categoriaClave": "cumbia",
+  "genero": "Cumbia",
+  "decada": null,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro",
+   "decada"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "cuarteto-001",
+  "titulo": "La mano de Dios",
+  "artista": "Rodrigo",
+  "categoria": "Cuarteto",
+  "categoriaClave": "cuarteto",
+  "genero": "Cuarteto",
+  "decada": null,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro",
+   "decada"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "cuarteto-002",
+  "titulo": "Soy cordobés",
+  "artista": "Rodrigo",
+  "categoria": "Cuarteto",
+  "categoriaClave": "cuarteto",
+  "genero": "Cuarteto",
+  "decada": null,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro",
+   "decada"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "popular-001",
+  "titulo": "Mi Buenos Aires querido",
+  "artista": "Carlos Gardel",
+  "categoria": "Música popular argentina",
+  "categoriaClave": "popular",
+  "genero": "Tango",
+  "decada": 1930,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "popular-002",
+  "titulo": "Por una cabeza",
+  "artista": "Carlos Gardel",
+  "categoria": "Música popular argentina",
+  "categoriaClave": "popular",
+  "genero": "Tango",
+  "decada": 1930,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "popular-003",
+  "titulo": "Volver",
+  "artista": "Carlos Gardel",
+  "categoria": "Música popular argentina",
+  "categoriaClave": "popular",
+  "genero": "Tango",
+  "decada": 1930,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "popular-004",
+  "titulo": "El día que me quieras",
+  "artista": "Carlos Gardel",
+  "categoria": "Música popular argentina",
+  "categoriaClave": "popular",
+  "genero": "Tango",
+  "decada": 1930,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "popular-005",
+  "titulo": "Balada para un loco",
+  "artista": "Astor Piazzolla",
+  "categoria": "Música popular argentina",
+  "categoriaClave": "popular",
+  "genero": "Tango",
+  "decada": 1960,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "popular-006",
+  "titulo": "Libertango",
+  "artista": "Astor Piazzolla",
+  "categoria": "Música popular argentina",
+  "categoriaClave": "popular",
+  "genero": "Tango",
+  "decada": 1970,
+  "origen": "Argentina",
+  "dificultad": "dificil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "popular-007",
+  "titulo": "Gracias a la vida",
+  "artista": "Mercedes Sosa",
+  "categoria": "Música popular argentina",
+  "categoriaClave": "popular",
+  "genero": "Folklore",
+  "decada": 1970,
+  "origen": "Argentina",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "popular-008",
+  "titulo": "Sólo le pido a Dios",
+  "artista": "León Gieco",
+  "categoria": "Música popular argentina",
+  "categoriaClave": "popular",
+  "genero": "Folk rock",
+  "decada": 1970,
+  "origen": "Argentina",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "popular-009",
+  "titulo": "Canción con todos",
+  "artista": "Mercedes Sosa",
+  "categoria": "Música popular argentina",
+  "categoriaClave": "popular",
+  "genero": "Folklore",
+  "decada": 1960,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "popular-010",
+  "titulo": "Alfonsina y el mar",
+  "artista": "Mercedes Sosa",
+  "categoria": "Música popular argentina",
+  "categoriaClave": "popular",
+  "genero": "Folklore",
+  "decada": 1960,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "popular-011",
+  "titulo": "Manuelita",
+  "artista": "María Elena Walsh",
+  "categoria": "Música popular argentina",
+  "categoriaClave": "popular",
+  "genero": "Infantil",
+  "decada": 1960,
+  "origen": "Argentina",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "popular-012",
+  "titulo": "El reino del revés",
+  "artista": "María Elena Walsh",
+  "categoria": "Música popular argentina",
+  "categoriaClave": "popular",
+  "genero": "Infantil",
+  "decada": 1960,
+  "origen": "Argentina",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "popular-013",
+  "titulo": "La felicidad",
+  "artista": "Palito Ortega",
+  "categoria": "Música popular argentina",
+  "categoriaClave": "popular",
+  "genero": "Balada",
+  "decada": 1960,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "popular-014",
+  "titulo": "Fuiste mía un verano",
+  "artista": "Leonardo Favio",
+  "categoria": "Música popular argentina",
+  "categoriaClave": "popular",
+  "genero": "Balada",
+  "decada": 1960,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "popular-015",
+  "titulo": "La cumparsita",
+  "artista": "Gerardo Matos Rodríguez",
+  "categoria": "Música popular argentina",
+  "categoriaClave": "popular",
+  "genero": "Tango",
+  "decada": 1910,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "popular-016",
+  "titulo": "Color esperanza",
+  "artista": "Diego Torres",
+  "categoria": "Música popular argentina",
+  "categoriaClave": "popular",
+  "genero": "Pop latino",
+  "decada": 2000,
+  "origen": "Argentina",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "popular-017",
+  "titulo": "Siga el baile",
+  "artista": "Los Auténticos Decadentes",
+  "categoria": "Música popular argentina",
+  "categoriaClave": "popular",
+  "genero": "Ska",
+  "decada": 1990,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "popular-018",
+  "titulo": "Don",
+  "artista": "Miranda!",
+  "categoria": "Música popular argentina",
+  "categoriaClave": "popular",
+  "genero": "Pop",
+  "decada": 2000,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "popular-019",
+  "titulo": "Yo te diré",
+  "artista": "Miranda!",
+  "categoria": "Música popular argentina",
+  "categoriaClave": "popular",
+  "genero": "Pop",
+  "decada": 2000,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-001",
+  "titulo": "Billie Jean",
+  "artista": "Michael Jackson",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1980,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-002",
+  "titulo": "Thriller",
+  "artista": "Michael Jackson",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1980,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-003",
+  "titulo": "Beat It",
+  "artista": "Michael Jackson",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1980,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-004",
+  "titulo": "Like a Prayer",
+  "artista": "Madonna",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1980,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-005",
+  "titulo": "Material Girl",
+  "artista": "Madonna",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1980,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-006",
+  "titulo": "Don't Stop Believin'",
+  "artista": "Journey",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1980,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-007",
+  "titulo": "Bohemian Rhapsody",
+  "artista": "Queen",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1970,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-008",
+  "titulo": "We Will Rock You",
+  "artista": "Queen",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1970,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-009",
+  "titulo": "Another One Bites the Dust",
+  "artista": "Queen",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1980,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-010",
+  "titulo": "Don't Stop Me Now",
+  "artista": "Queen",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1970,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-011",
+  "titulo": "Imagine",
+  "artista": "John Lennon",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1970,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-012",
+  "titulo": "Hey Jude",
+  "artista": "The Beatles",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1960,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-013",
+  "titulo": "Let It Be",
+  "artista": "The Beatles",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1970,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-014",
+  "titulo": "Yesterday",
+  "artista": "The Beatles",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1960,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-015",
+  "titulo": "Hotel California",
+  "artista": "Eagles",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1970,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-016",
+  "titulo": "Stairway to Heaven",
+  "artista": "Led Zeppelin",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1970,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-017",
+  "titulo": "Sweet Child O' Mine",
+  "artista": "Guns N' Roses",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1980,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-018",
+  "titulo": "November Rain",
+  "artista": "Guns N' Roses",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1990,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-019",
+  "titulo": "Smells Like Teen Spirit",
+  "artista": "Nirvana",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1990,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-020",
+  "titulo": "Wonderwall",
+  "artista": "Oasis",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1990,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-021",
+  "titulo": "Wannabe",
+  "artista": "Spice Girls",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1990,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-022",
+  "titulo": "...Baby One More Time",
+  "artista": "Britney Spears",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1990,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-023",
+  "titulo": "I Want It That Way",
+  "artista": "Backstreet Boys",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1990,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-024",
+  "titulo": "Livin' la Vida Loca",
+  "artista": "Ricky Martin",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1990,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-025",
+  "titulo": "Macarena",
+  "artista": "Los del Río",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1990,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-026",
+  "titulo": "Dancing Queen",
+  "artista": "ABBA",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1970,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-027",
+  "titulo": "Mamma Mia",
+  "artista": "ABBA",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1970,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-028",
+  "titulo": "Stayin' Alive",
+  "artista": "Bee Gees",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1970,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-029",
+  "titulo": "Africa",
+  "artista": "Toto",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1980,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-030",
+  "titulo": "Take On Me",
+  "artista": "a-ha",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1980,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-031",
+  "titulo": "Girls Just Want to Have Fun",
+  "artista": "Cyndi Lauper",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1980,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-032",
+  "titulo": "Every Breath You Take",
+  "artista": "The Police",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1980,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-033",
+  "titulo": "Livin' on a Prayer",
+  "artista": "Bon Jovi",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1980,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-034",
+  "titulo": "Purple Rain",
+  "artista": "Prince",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1980,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-035",
+  "titulo": "Sweet Caroline",
+  "artista": "Neil Diamond",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1960,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-036",
+  "titulo": "Smooth",
+  "artista": "Santana",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1990,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-037",
+  "titulo": "Mambo No. 5",
+  "artista": "Lou Bega",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1990,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-038",
+  "titulo": "Barbie Girl",
+  "artista": "Aqua",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1990,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pop-039",
+  "titulo": "Ice Ice Baby",
+  "artista": "Vanilla Ice",
+  "categoria": "Pop internacional",
+  "categoriaClave": "pop",
+  "genero": "Pop/Rock",
+  "decada": 1990,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "urbano-001",
+  "titulo": "Gasolina",
+  "artista": "Daddy Yankee",
+  "categoria": "Reggaetón y urbano",
+  "categoriaClave": "urbano",
+  "genero": "Urbano",
+  "decada": 2000,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "urbano-002",
+  "titulo": "Dákiti",
+  "artista": "Bad Bunny y Jhay Cortez",
+  "categoria": "Reggaetón y urbano",
+  "categoriaClave": "urbano",
+  "genero": "Urbano",
+  "decada": 2020,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "urbano-003",
+  "titulo": "Tití me preguntó",
+  "artista": "Bad Bunny",
+  "categoria": "Reggaetón y urbano",
+  "categoriaClave": "urbano",
+  "genero": "Urbano",
+  "decada": 2020,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "urbano-004",
+  "titulo": "Me porto bonito",
+  "artista": "Bad Bunny y Chencho Corleone",
+  "categoria": "Reggaetón y urbano",
+  "categoriaClave": "urbano",
+  "genero": "Urbano",
+  "decada": 2020,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "urbano-005",
+  "titulo": "Danza Kuduro",
+  "artista": "Don Omar y Lucenzo",
+  "categoria": "Reggaetón y urbano",
+  "categoriaClave": "urbano",
+  "genero": "Urbano",
+  "decada": 2010,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "urbano-006",
+  "titulo": "Bailando",
+  "artista": "Enrique Iglesias",
+  "categoria": "Reggaetón y urbano",
+  "categoriaClave": "urbano",
+  "genero": "Urbano",
+  "decada": 2010,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "urbano-007",
+  "titulo": "Bzrp Music Sessions, Vol. 52",
+  "artista": "Bizarrap y Quevedo",
+  "categoria": "Reggaetón y urbano",
+  "categoriaClave": "urbano",
+  "genero": "Urbano",
+  "decada": 2020,
+  "origen": "Argentina",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "urbano-008",
+  "titulo": "Bzrp Music Sessions, Vol. 53",
+  "artista": "Bizarrap y Shakira",
+  "categoria": "Reggaetón y urbano",
+  "categoriaClave": "urbano",
+  "genero": "Urbano",
+  "decada": 2020,
+  "origen": "Argentina",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "urbano-009",
+  "titulo": "Goteo",
+  "artista": "Duki",
+  "categoria": "Reggaetón y urbano",
+  "categoriaClave": "urbano",
+  "genero": "Urbano",
+  "decada": 2010,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro",
+   "decada"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "urbano-010",
+  "titulo": "Mamichula",
+  "artista": "Trueno, Bizarrap y Nicki Nicole",
+  "categoria": "Reggaetón y urbano",
+  "categoriaClave": "urbano",
+  "genero": "Urbano",
+  "decada": 2020,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro",
+   "decada"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "urbano-011",
+  "titulo": "Pepas",
+  "artista": "Farruko",
+  "categoria": "Reggaetón y urbano",
+  "categoriaClave": "urbano",
+  "genero": "Urbano",
+  "decada": 2020,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "urbano-012",
+  "titulo": "Con calma",
+  "artista": "Daddy Yankee y Snow",
+  "categoria": "Reggaetón y urbano",
+  "categoriaClave": "urbano",
+  "genero": "Urbano",
+  "decada": 2010,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "urbano-013",
+  "titulo": "La bicicleta",
+  "artista": "Carlos Vives y Shakira",
+  "categoria": "Reggaetón y urbano",
+  "categoriaClave": "urbano",
+  "genero": "Urbano",
+  "decada": 2010,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "urbano-014",
+  "titulo": "Despacito",
+  "artista": "Luis Fonsi y Daddy Yankee",
+  "categoria": "Reggaetón y urbano",
+  "categoriaClave": "urbano",
+  "genero": "Urbano",
+  "decada": 2010,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "hits-001",
+  "titulo": "Hey Ya!",
+  "artista": "OutKast",
+  "categoria": "Hits 2000/2010",
+  "categoriaClave": "hits",
+  "genero": "Pop",
+  "decada": 2000,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "hits-002",
+  "titulo": "Mr. Brightside",
+  "artista": "The Killers",
+  "categoria": "Hits 2000/2010",
+  "categoriaClave": "hits",
+  "genero": "Pop",
+  "decada": 2000,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "hits-003",
+  "titulo": "In the End",
+  "artista": "Linkin Park",
+  "categoria": "Hits 2000/2010",
+  "categoriaClave": "hits",
+  "genero": "Pop",
+  "decada": 2000,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "hits-004",
+  "titulo": "Fix You",
+  "artista": "Coldplay",
+  "categoria": "Hits 2000/2010",
+  "categoriaClave": "hits",
+  "genero": "Pop",
+  "decada": 2000,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "hits-005",
+  "titulo": "Viva la Vida",
+  "artista": "Coldplay",
+  "categoria": "Hits 2000/2010",
+  "categoriaClave": "hits",
+  "genero": "Pop",
+  "decada": 2000,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "hits-006",
+  "titulo": "Yellow",
+  "artista": "Coldplay",
+  "categoria": "Hits 2000/2010",
+  "categoriaClave": "hits",
+  "genero": "Pop",
+  "decada": 2000,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "hits-007",
+  "titulo": "Happy",
+  "artista": "Pharrell Williams",
+  "categoria": "Hits 2000/2010",
+  "categoriaClave": "hits",
+  "genero": "Pop",
+  "decada": 2010,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "hits-008",
+  "titulo": "Gangnam Style",
+  "artista": "Psy",
+  "categoria": "Hits 2000/2010",
+  "categoriaClave": "hits",
+  "genero": "Pop",
+  "decada": 2010,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "hits-009",
+  "titulo": "Somebody That I Used to Know",
+  "artista": "Gotye",
+  "categoria": "Hits 2000/2010",
+  "categoriaClave": "hits",
+  "genero": "Pop",
+  "decada": 2010,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "hits-010",
+  "titulo": "Call Me Maybe",
+  "artista": "Carly Rae Jepsen",
+  "categoria": "Hits 2000/2010",
+  "categoriaClave": "hits",
+  "genero": "Pop",
+  "decada": 2010,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "hits-011",
+  "titulo": "Blank Space",
+  "artista": "Taylor Swift",
+  "categoria": "Hits 2000/2010",
+  "categoriaClave": "hits",
+  "genero": "Pop",
+  "decada": 2010,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "hits-012",
+  "titulo": "Shape of You",
+  "artista": "Ed Sheeran",
+  "categoria": "Hits 2000/2010",
+  "categoriaClave": "hits",
+  "genero": "Pop",
+  "decada": 2010,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "hits-013",
+  "titulo": "Uptown Funk",
+  "artista": "Mark Ronson y Bruno Mars",
+  "categoria": "Hits 2000/2010",
+  "categoriaClave": "hits",
+  "genero": "Pop",
+  "decada": 2010,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "hits-014",
+  "titulo": "Shake It Off",
+  "artista": "Taylor Swift",
+  "categoria": "Hits 2000/2010",
+  "categoriaClave": "hits",
+  "genero": "Pop",
+  "decada": 2010,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "hits-015",
+  "titulo": "Rolling in the Deep",
+  "artista": "Adele",
+  "categoria": "Hits 2000/2010",
+  "categoriaClave": "hits",
+  "genero": "Pop",
+  "decada": 2010,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "hits-016",
+  "titulo": "Crazy in Love",
+  "artista": "Beyoncé",
+  "categoria": "Hits 2000/2010",
+  "categoriaClave": "hits",
+  "genero": "Pop",
+  "decada": 2000,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "hits-017",
+  "titulo": "Umbrella",
+  "artista": "Rihanna",
+  "categoria": "Hits 2000/2010",
+  "categoriaClave": "hits",
+  "genero": "Pop",
+  "decada": 2000,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "hits-018",
+  "titulo": "Lose Yourself",
+  "artista": "Eminem",
+  "categoria": "Hits 2000/2010",
+  "categoriaClave": "hits",
+  "genero": "Pop",
+  "decada": 2000,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "hits-019",
+  "titulo": "Waka Waka",
+  "artista": "Shakira",
+  "categoria": "Hits 2000/2010",
+  "categoriaClave": "hits",
+  "genero": "Pop",
+  "decada": 2010,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "hits-020",
+  "titulo": "Hips Don't Lie",
+  "artista": "Shakira",
+  "categoria": "Hits 2000/2010",
+  "categoriaClave": "hits",
+  "genero": "Pop",
+  "decada": 2000,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "hits-021",
+  "titulo": "La tortura",
+  "artista": "Shakira",
+  "categoria": "Hits 2000/2010",
+  "categoriaClave": "hits",
+  "genero": "Pop",
+  "decada": 2000,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pelicula-001",
+  "titulo": "My Heart Will Go On",
+  "artista": "Celine Dion",
+  "categoria": "Películas",
+  "categoriaClave": "pelicula",
+  "genero": "Banda sonora (Titanic)",
+  "decada": 1990,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pelicula-002",
+  "titulo": "Eye of the Tiger",
+  "artista": "Survivor",
+  "categoria": "Películas",
+  "categoriaClave": "pelicula",
+  "genero": "Banda sonora (Rocky III)",
+  "decada": 1980,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pelicula-003",
+  "titulo": "Gonna Fly Now",
+  "artista": "Bill Conti",
+  "categoria": "Películas",
+  "categoriaClave": "pelicula",
+  "genero": "Banda sonora (Rocky)",
+  "decada": 1970,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pelicula-004",
+  "titulo": "Take My Breath Away",
+  "artista": "Berlin",
+  "categoria": "Películas",
+  "categoriaClave": "pelicula",
+  "genero": "Banda sonora (Top Gun)",
+  "decada": 1980,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pelicula-005",
+  "titulo": "Danger Zone",
+  "artista": "Kenny Loggins",
+  "categoria": "Películas",
+  "categoriaClave": "pelicula",
+  "genero": "Banda sonora (Top Gun)",
+  "decada": 1980,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pelicula-006",
+  "titulo": "I Will Always Love You",
+  "artista": "Whitney Houston",
+  "categoria": "Películas",
+  "categoriaClave": "pelicula",
+  "genero": "Banda sonora (El guardaespaldas)",
+  "decada": 1990,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pelicula-007",
+  "titulo": "Ghostbusters",
+  "artista": "Ray Parker Jr.",
+  "categoria": "Películas",
+  "categoriaClave": "pelicula",
+  "genero": "Banda sonora (Los cazafantasmas)",
+  "decada": 1980,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pelicula-008",
+  "titulo": "(I've Had) The Time of My Life",
+  "artista": "Bill Medley y Jennifer Warnes",
+  "categoria": "Películas",
+  "categoriaClave": "pelicula",
+  "genero": "Banda sonora (Dirty Dancing)",
+  "decada": 1980,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pelicula-009",
+  "titulo": "A Whole New World",
+  "artista": "Peabo Bryson y Regina Belle",
+  "categoria": "Películas",
+  "categoriaClave": "pelicula",
+  "genero": "Banda sonora (Aladdin)",
+  "decada": 1990,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pelicula-010",
+  "titulo": "Circle of Life",
+  "artista": "Elton John",
+  "categoria": "Películas",
+  "categoriaClave": "pelicula",
+  "genero": "Banda sonora (El rey león)",
+  "decada": 1990,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pelicula-011",
+  "titulo": "Hakuna Matata",
+  "artista": "Jimmy Cliff, Nathan Lane y Ernie Sabella",
+  "categoria": "Películas",
+  "categoriaClave": "pelicula",
+  "genero": "Banda sonora (El rey león)",
+  "decada": 1990,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pelicula-012",
+  "titulo": "Let It Go",
+  "artista": "Idina Menzel",
+  "categoria": "Películas",
+  "categoriaClave": "pelicula",
+  "genero": "Banda sonora (Frozen)",
+  "decada": 2010,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pelicula-013",
+  "titulo": "You're the One That I Want",
+  "artista": "John Travolta y Olivia Newton-John",
+  "categoria": "Películas",
+  "categoriaClave": "pelicula",
+  "genero": "Banda sonora (Grease)",
+  "decada": 1970,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pelicula-014",
+  "titulo": "Footloose",
+  "artista": "Kenny Loggins",
+  "categoria": "Películas",
+  "categoriaClave": "pelicula",
+  "genero": "Banda sonora (Footloose)",
+  "decada": 1980,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pelicula-015",
+  "titulo": "Flashdance... What a Feeling",
+  "artista": "Irene Cara",
+  "categoria": "Películas",
+  "categoriaClave": "pelicula",
+  "genero": "Banda sonora (Flashdance)",
+  "decada": 1980,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pelicula-016",
+  "titulo": "You've Got a Friend in Me",
+  "artista": "Randy Newman",
+  "categoria": "Películas",
+  "categoriaClave": "pelicula",
+  "genero": "Banda sonora (Toy Story)",
+  "decada": 1990,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pelicula-017",
+  "titulo": "How Far I'll Go",
+  "artista": "Auli'i Cravalho",
+  "categoria": "Películas",
+  "categoriaClave": "pelicula",
+  "genero": "Banda sonora (Moana)",
+  "decada": 2010,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pelicula-018",
+  "titulo": "We Don't Talk About Bruno",
+  "artista": "Elenco de Encanto",
+  "categoria": "Películas",
+  "categoriaClave": "pelicula",
+  "genero": "Banda sonora (Encanto)",
+  "decada": 2020,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pelicula-019",
+  "titulo": "Skyfall",
+  "artista": "Adele",
+  "categoria": "Películas",
+  "categoriaClave": "pelicula",
+  "genero": "Banda sonora (Skyfall)",
+  "decada": 2010,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pelicula-020",
+  "titulo": "Men in Black",
+  "artista": "Will Smith",
+  "categoria": "Películas",
+  "categoriaClave": "pelicula",
+  "genero": "Banda sonora (Hombres de negro)",
+  "decada": 1990,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pelicula-021",
+  "titulo": "Tema de Misión: Imposible",
+  "artista": "Lalo Schifrin",
+  "categoria": "Películas",
+  "categoriaClave": "pelicula",
+  "genero": "Banda sonora (Misión: Imposible)",
+  "decada": 1960,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pelicula-022",
+  "titulo": "Tema de Star Wars",
+  "artista": "John Williams",
+  "categoria": "Películas",
+  "categoriaClave": "pelicula",
+  "genero": "Banda sonora (La guerra de las galaxias)",
+  "decada": 1970,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pelicula-023",
+  "titulo": "Tema de Tiburón",
+  "artista": "John Williams",
+  "categoria": "Películas",
+  "categoriaClave": "pelicula",
+  "genero": "Banda sonora (Tiburón)",
+  "decada": 1970,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "pelicula-024",
+  "titulo": "Hedwig's Theme",
+  "artista": "John Williams",
+  "categoria": "Películas",
+  "categoriaClave": "pelicula",
+  "genero": "Banda sonora (Harry Potter)",
+  "decada": 2000,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "novela-001",
+  "titulo": "Rebelde",
+  "artista": "RBD",
+  "categoria": "Novelas",
+  "categoriaClave": "novela",
+  "genero": "Pop latino",
+  "decada": 2000,
+  "origen": "México",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "novela-002",
+  "titulo": "En mi mundo",
+  "artista": "Martina Stoessel",
+  "categoria": "Novelas",
+  "categoriaClave": "novela",
+  "genero": "Pop",
+  "decada": 2010,
+  "origen": "Argentina",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "tv-001",
+  "titulo": "I'll Be There for You (Friends)",
+  "artista": "The Rembrandts",
+  "categoria": "Aperturas de TV",
+  "categoriaClave": "tv",
+  "genero": "Pop/Rock",
+  "decada": 1990,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "tv-002",
+  "titulo": "Tema de Game of Thrones",
+  "artista": "Ramin Djawadi",
+  "categoria": "Aperturas de TV",
+  "categoriaClave": "tv",
+  "genero": "Instrumental",
+  "decada": 2010,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "tv-003",
+  "titulo": "Tema de Stranger Things",
+  "artista": "Kyle Dixon y Michael Stein",
+  "categoria": "Aperturas de TV",
+  "categoriaClave": "tv",
+  "genero": "Instrumental",
+  "decada": 2010,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "tv-004",
+  "titulo": "Tema de Los Simpson",
+  "artista": "Danny Elfman",
+  "categoria": "Aperturas de TV",
+  "categoriaClave": "tv",
+  "genero": "Instrumental",
+  "decada": 1980,
+  "origen": "Internacional",
+  "dificultad": "facil",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ },
+ {
+  "id": "publicidad-001",
+  "titulo": "I'd Like to Teach the World to Sing",
+  "artista": "The New Seekers",
+  "categoria": "Publicidades",
+  "categoriaClave": "publicidad",
+  "genero": "Pop",
+  "decada": 1970,
+  "origen": "Internacional",
+  "dificultad": "media",
+  "coro": null,
+  "etiquetas": [],
+  "revisar": [
+   "coro"
+  ],
+  "enlaces": {
+   "spotify": {
+    "url": null,
+    "verificado": false
+   },
+   "youtube": {
+    "url": null,
+    "verificado": false
+   }
+  }
+ }
+]
